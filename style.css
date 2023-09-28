@@ -28,7 +28,7 @@ body {
 
 .cabecalho_menu {
     display: flex;
-    gap:80px;
+    gap:25px;
 
 }
 
